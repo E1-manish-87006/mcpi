@@ -1,9 +1,3 @@
-/*
- * lis3dsh.c
- *
- *  Created on: Apr 3, 2024
- *      Author: Nilesh
- */
 
 #include "lis3dsh.h"
 

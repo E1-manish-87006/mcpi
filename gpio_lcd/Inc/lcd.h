@@ -1,8 +1,3 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 20, 2024
-*/
 
 #ifndef LCD_H_
 #define LCD_H_

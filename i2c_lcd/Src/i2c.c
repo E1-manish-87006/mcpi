@@ -1,9 +1,3 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 24, 2024
-*/
-
 #include "i2c.h"
 
 void I2C_Init(void) {

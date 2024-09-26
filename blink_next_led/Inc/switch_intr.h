@@ -1,9 +1,3 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 21, 2024
-*/
-
 #ifndef SWITCH_INTR_H_
 #define SWITCH_INTR_H_
 

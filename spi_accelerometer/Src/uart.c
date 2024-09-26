@@ -1,8 +1,3 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 23, 2024
-*/
 
 #include <stdio.h>
 #include "uart.h"

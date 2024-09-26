@@ -1,8 +1,4 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 19, 2024
-*/
+
 
 #ifndef LED_H_
 #define LED_H_

@@ -1,9 +1,4 @@
-/*
- * itm.c
- *
- *  Created on: 01-Jul-2021
- *      Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
- */
+
 #include <stdint.h>
 
 //Debug Exception and Monitor Control Register base address

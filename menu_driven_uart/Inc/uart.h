@@ -1,8 +1,3 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 23, 2024
-*/
 
 #ifndef UART_H_
 #define UART_H_
