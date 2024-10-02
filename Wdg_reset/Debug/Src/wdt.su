@@ -1,0 +1,3 @@
+../Src/wdt.c:4:6:IWDG_Init	24	static
+../Src/wdt.c:23:6:IWDG_Refresh	4	static
+../Src/wdt.c:28:5:IWDG_IsReset	4	static

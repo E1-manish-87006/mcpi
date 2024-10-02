@@ -1,0 +1,2 @@
+../Src/dac.c:5:6:DAC_Init	1
+../Src/dac.c:16:6:DAC_SetValue	1
